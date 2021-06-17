@@ -12,11 +12,11 @@ public class Post {
     private Placeholder placeholder;
     private PostAction postAction;
     private PostInfo postInfo;
-   private PostponePost postponePost;
+    private PostponePost postponePost;
     private PostTime postTime;
-   private Privacy privacy;
+    private Privacy privacy;
     private Repost repost;
-   private ShowPostName showPostName;
+    private ShowPostName showPostName;
     private ViewComment viewComment;
     private ViewReply viewReply;
     private Views views;
